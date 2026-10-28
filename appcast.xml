@@ -6,6 +6,19 @@
     <description>Thatsaid updates</description>
     <language>en</language>
     <item>
+      <title>Thatsaid 1.5.28</title>
+      <pubDate>Wed, 28 Oct 2026 18:40:44 GMT</pubDate>
+      <sparkle:version>10528</sparkle:version>
+      <sparkle:shortVersionString>1.5.28</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Thatsaid 1.5.28
+- New Updates settings: Check for updates automatically (on) and Update silently (off)
+- Check for Updates button and current version in Settings
+- Updates never install during a recording
+</pre>]]></description>
+      <enclosure url="https://github.com/saxxonm/thatsaid-releases/releases/download/v1.5.28/Thatsaid-1.5.28.zip" sparkle:edSignature="Dxo5ENZKe9o+EKC8qENUjxNlEI72uiDmqxJ5GwFpMkQra+wGoZ+EwpjH5NdqyszWtNui2OsezIZUMzqms5qbDg==" length="51180051" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Thatsaid 1.5.27</title>
       <pubDate>Wed, 28 Oct 2026 18:26:44 GMT</pubDate>
       <sparkle:version>10527</sparkle:version>
