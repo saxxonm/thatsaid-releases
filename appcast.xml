@@ -6,6 +6,20 @@
     <description>Thatsaid updates</description>
     <language>en</language>
     <item>
+      <title>Thatsaid 1.5.31</title>
+      <pubDate>Wed, 28 Oct 2026 19:14:55 GMT</pubDate>
+      <sparkle:version>10531</sparkle:version>
+      <sparkle:shortVersionString>1.5.31</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Thatsaid 1.5.31
+- Dictation: if macOS hasn&#x27;t granted Accessibility, the text goes to your clipboard (press ⌘V) and you get a notification. It no longer looks inserted when it wasn&#x27;t.
+- Settings → Dictation tells you when macOS still holds an Accessibility grant from an older build, and how to fix it.
+- Dictation is faster: the speech model stays loaded while dictation is on, so it no longer loads on your first hold.
+- Settings: Updates now appears only under General (no duplicate under Mode).
+</pre>]]></description>
+      <enclosure url="https://github.com/saxxonm/thatsaid-releases/releases/download/v1.5.31/Thatsaid-1.5.31.zip" sparkle:edSignature="+btSQKhg5v6NfywtatVw09djva08VtR23gCVpat/fZjTVbXv5ocxIvKzTxRtkJYhHgOYKnUvlWSfLXZxw1udDg==" length="51190084" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Thatsaid 1.5.30</title>
       <pubDate>Wed, 28 Oct 2026 18:57:10 GMT</pubDate>
       <sparkle:version>10530</sparkle:version>
