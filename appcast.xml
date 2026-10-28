@@ -6,6 +6,17 @@
     <description>Thatsaid updates</description>
     <language>en</language>
     <item>
+      <title>Thatsaid 1.5.34</title>
+      <pubDate>Wed, 28 Oct 2026 20:26:44 GMT</pubDate>
+      <sparkle:version>10534</sparkle:version>
+      <sparkle:shortVersionString>1.5.34</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Thatsaid 1.5.34
+- Fixed a freeze at launch when Thatsaid starts paused before microphone access is decided. The watchdog used to restart the app over and over while the mic prompt waited.
+</pre>]]></description>
+      <enclosure url="https://github.com/saxxonm/thatsaid-releases/releases/download/v1.5.34/Thatsaid-1.5.34.zip" sparkle:edSignature="M9HdSp/yYF4ErXF1gf8FiotkSkUnn18XGKqMPeQjVaeg7yJO3LFeUY6Zv+7hiBludNGw9oB1Y9cD9U4Op1gnDA==" length="51198252" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Thatsaid 1.5.33</title>
       <pubDate>Wed, 28 Oct 2026 19:39:27 GMT</pubDate>
       <sparkle:version>10533</sparkle:version>
