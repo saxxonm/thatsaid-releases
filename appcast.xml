@@ -6,6 +6,17 @@
     <description>Thatsaid updates</description>
     <language>en</language>
     <item>
+      <title>Thatsaid 1.5.29</title>
+      <pubDate>Wed, 28 Oct 2026 18:55:22 GMT</pubDate>
+      <sparkle:version>10529</sparkle:version>
+      <sparkle:shortVersionString>1.5.29</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Thatsaid 1.5.29
+- Fix: Install and Relaunch now installs the update and relaunches
+</pre>]]></description>
+      <enclosure url="https://github.com/saxxonm/thatsaid-releases/releases/download/v1.5.29/Thatsaid-1.5.29.zip" sparkle:edSignature="JINJ3yYWGSWhTmL5kNvv9H3RbWbBkSJzCFaeb6cROt5W/31qpUzrUGW/JybQ4asAJFENJJq5f22eOt5PFmisAw==" length="51186368" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Thatsaid 1.5.28</title>
       <pubDate>Wed, 28 Oct 2026 18:40:44 GMT</pubDate>
       <sparkle:version>10528</sparkle:version>
