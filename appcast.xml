@@ -5,5 +5,18 @@
     <link>https://saxxonm.github.io/thatsaid-releases/appcast.xml</link>
     <description>Thatsaid updates</description>
     <language>en</language>
+    <item>
+      <title>Thatsaid 1.5.27</title>
+      <pubDate>Wed, 28 Oct 2026 18:26:44 GMT</pubDate>
+      <sparkle:version>10527</sparkle:version>
+      <sparkle:shortVersionString>1.5.27</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Thatsaid 1.5.27
+- Grant Access button and on-screen guide for Accessibility (dictation) and Microphone
+- Signed with Developer ID and notarized
+- Automatic updates via Sparkle; never installs during a recording
+</pre>]]></description>
+      <enclosure url="https://github.com/saxxonm/thatsaid-releases/releases/download/v1.5.27/Thatsaid-1.5.27.zip" sparkle:edSignature="MJACCVx9ewcADgA2DIncCv+2wRb/Z0Tc3BFKU7XBg2txOuZx98/JbkRJCgD5GxTj+3hRoB4qSzS+qGmPPQq+CQ==" length="51165056" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
