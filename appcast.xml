@@ -6,6 +6,19 @@
     <description>Thatsaid updates</description>
     <language>en</language>
     <item>
+      <title>Thatsaid 1.5.32</title>
+      <pubDate>Wed, 28 Oct 2026 19:36:45 GMT</pubDate>
+      <sparkle:version>10532</sparkle:version>
+      <sparkle:shortVersionString>1.5.32</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Thatsaid 1.5.32
+- Grant Access now shows only macOS&#x27;s own prompt. Click Open System Settings in it, and Thatsaid&#x27;s guide appears next to the Accessibility list.
+- If macOS is holding an Accessibility grant from an older build (it shows ON but typing is still blocked), Dictation says so and walks you through removing it with − and adding it again.
+- Thatsaid not in the list? Drag the app icon from the guide into it.
+</pre>]]></description>
+      <enclosure url="https://github.com/saxxonm/thatsaid-releases/releases/download/v1.5.32/Thatsaid-1.5.32.zip" sparkle:edSignature="JPLvfpUAhuYphQZJ4+xzcPUJnqGsGIExpiu3JRam5Y3T4/LoS9wrcGOrS4asCPegPrqHftPHGnJcShgFuk17CQ==" length="51195246" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Thatsaid 1.5.31</title>
       <pubDate>Wed, 28 Oct 2026 19:14:55 GMT</pubDate>
       <sparkle:version>10531</sparkle:version>
