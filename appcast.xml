@@ -6,6 +6,17 @@
     <description>Thatsaid updates</description>
     <language>en</language>
     <item>
+      <title>Thatsaid 1.5.33</title>
+      <pubDate>Wed, 28 Oct 2026 19:39:27 GMT</pubDate>
+      <sparkle:version>10533</sparkle:version>
+      <sparkle:shortVersionString>1.5.33</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Thatsaid 1.5.33
+- Dictation now types into Electron and Chrome-based apps (Slack, Discord, VS Code, Chrome, Grok Bot and similar). Before, the text silently went nowhere.
+</pre>]]></description>
+      <enclosure url="https://github.com/saxxonm/thatsaid-releases/releases/download/v1.5.33/Thatsaid-1.5.33.zip" sparkle:edSignature="roDPOzY2s6RTn3eDb+DJ71DEJrZZpEYH6JxF1r0AaZwH46NMWoe55r1VZvnqeGWKHNfYFPz1f61IEjSLDotDDQ==" length="51198304" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Thatsaid 1.5.32</title>
       <pubDate>Wed, 28 Oct 2026 19:36:45 GMT</pubDate>
       <sparkle:version>10532</sparkle:version>
