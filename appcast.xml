@@ -6,6 +6,25 @@
     <description>Thatsaid updates</description>
     <language>en</language>
     <item>
+      <title>Thatsaid 1.5.35</title>
+      <pubDate>Thu, 29 Oct 2026 23:18:14 GMT</pubDate>
+      <sparkle:version>10535</sparkle:version>
+      <sparkle:shortVersionString>1.5.35</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Thatsaid 1.5.35
+- Dictation: clipboard is restored only after the paste lands (Electron apps included); smart spacing.
+- Crash-safe recording: audio is written in small chunks and recovered after a crash; chunks are deleted after processing.
+- Mic recovery: survives device changes without breaking 24x7 listening; never touches the mic while paused.
+- No naming popup while the dictation key is held.
+- Retention settings for transcripts and recorded audio (audio deleted by default, never kept over 7 days).
+- Meeting app hints (Zoom, Teams, FaceTime, Webex) and optional Calendar titles plus heads-up.
+- Experimental echo cancellation (off by default).
+- Cross-meeting voice matching.
+Thanks to OpenWhispr (MIT) for ideas.
+</pre>]]></description>
+      <enclosure url="https://github.com/saxxonm/thatsaid-releases/releases/download/v1.5.35/Thatsaid-1.5.35.zip" sparkle:edSignature="wA6PWaytOxpbmyaF+foDdfctOtfohiVgAWH26L7vSTrpnYMfmO5GRwReLsWJtmNOXFjfo+j9mqj4vG+wz6M9Ag==" length="51290707" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Thatsaid 1.5.34</title>
       <pubDate>Wed, 28 Oct 2026 20:26:44 GMT</pubDate>
       <sparkle:version>10534</sparkle:version>
