@@ -6,6 +6,20 @@
     <description>Thatsaid updates</description>
     <language>en</language>
     <item>
+      <title>Thatsaid 1.5.36</title>
+      <pubDate>Fri, 30 Oct 2026 13:20:22 GMT</pubDate>
+      <sparkle:version>10536</sparkle:version>
+      <sparkle:shortVersionString>1.5.36</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Thatsaid 1.5.36
+- New floating pill: a small horizontal capsule with no labels. Click the red dot to record; it becomes three amber dots in a wave. Click the wave to stop. Faint red outline while recording; hover shows &quot;Record&quot; or &quot;Stop · mm:ss&quot;. Right-click the pill for Keep On Top.
+- Manual mode: clicking the menu bar icon now opens the menu, like Autonomous mode. Record and stop from the pill.
+- The pill always shows in Manual mode (&quot;Show Floating Pill&quot; removed).
+- Speakers moved out of the menu; it&#x27;s still in Settings.
+</pre>]]></description>
+      <enclosure url="https://github.com/saxxonm/thatsaid-releases/releases/download/v1.5.36/Thatsaid-1.5.36.zip" sparkle:edSignature="sXZM8d2nIHpZF13UQxPlUXcc3A62XqDr3SVHaF85CcfkWo4tvWzrM8d7WBMHPjme2OOXjnqwRuS7KJm/pZtzAw==" length="51284242" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Thatsaid 1.5.35</title>
       <pubDate>Thu, 29 Oct 2026 23:18:14 GMT</pubDate>
       <sparkle:version>10535</sparkle:version>
