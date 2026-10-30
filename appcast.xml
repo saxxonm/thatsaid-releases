@@ -6,6 +6,19 @@
     <description>Thatsaid updates</description>
     <language>en</language>
     <item>
+      <title>Thatsaid 1.5.39</title>
+      <pubDate>Fri, 30 Oct 2026 18:06:23 GMT</pubDate>
+      <sparkle:version>10539</sparkle:version>
+      <sparkle:shortVersionString>1.5.39</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Thatsaid 1.5.39
+- The &quot;Name this meeting&quot; popup now floats above every window, including full-screen apps, and appears on every Space.
+- It never takes keyboard focus or activates Thatsaid; click into the field if you want to type.
+- Still draggable; auto-dismiss unchanged.
+</pre>]]></description>
+      <enclosure url="https://github.com/saxxonm/thatsaid-releases/releases/download/v1.5.39/Thatsaid-1.5.39.zip" sparkle:edSignature="qfUwx/xha2C8to+JmOUKQggta4eqCLOkkTgEjk67GvVu+fsO6Po/auqK5OQN7AfWiztQ9Xzzp4xyXw/q4lbuDw==" length="51304529" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Thatsaid 1.5.38</title>
       <pubDate>Fri, 30 Oct 2026 13:51:53 GMT</pubDate>
       <sparkle:version>10538</sparkle:version>
