@@ -6,6 +6,15 @@
     <description>Thatsaid updates</description>
     <language>en</language>
     <item>
+      <title>Thatsaid 2.0.2</title>
+      <pubDate>Sat, 31 Oct 2026 23:13:07 GMT</pubDate>
+      <sparkle:version>20002</sparkle:version>
+      <sparkle:shortVersionString>2.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Thatsaid 2.0.2</li></ul>]]></description>
+      <enclosure url="https://github.com/saxxonm/thatsaid-releases/releases/download/v2.0.2/Thatsaid-2.0.2.zip" sparkle:edSignature="HZm/Maie1keugB5j84Tl9QeMrImrLs7TJ4oU0+RHf4d5krx69PkfRyPHwNavQ62tx7ItDsZU/hjwRei/pCjqDg==" length="27604245" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Thatsaid 2.0.1</title>
       <pubDate>Sat, 31 Oct 2026 23:10:14 GMT</pubDate>
       <sparkle:version>20001</sparkle:version>
