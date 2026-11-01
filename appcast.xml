@@ -6,6 +6,18 @@
     <description>Thatsaid updates</description>
     <language>en</language>
     <item>
+      <title>Thatsaid 2.0.5</title>
+      <pubDate>Sun, 01 Nov 2026 20:11:34 GMT</pubDate>
+      <sparkle:version>20005</sparkle:version>
+      <sparkle:shortVersionString>2.0.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>thatsaid 2.0.5
+
+- Agent Access: tokens can be set to never expire
+</pre>]]></description>
+      <enclosure url="https://github.com/saxxonm/thatsaid-releases/releases/download/v2.0.5/Thatsaid-2.0.5.zip" sparkle:edSignature="d726sYfNcFWYP+ObYaIUEFNqLz7M/RlvVmYkU6LRbEAdzsis6luIYVBpzxrB4IjoUE6QfwfuQxKwxA1cRddkDg==" length="27667607" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Thatsaid 2.0.4</title>
       <pubDate>Sun, 01 Nov 2026 19:24:14 GMT</pubDate>
       <sparkle:version>20004</sparkle:version>
