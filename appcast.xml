@@ -6,6 +6,20 @@
     <description>Thatsaid updates</description>
     <language>en</language>
     <item>
+      <title>Thatsaid 2.0.4</title>
+      <pubDate>Sun, 01 Nov 2026 19:24:14 GMT</pubDate>
+      <sparkle:version>20004</sparkle:version>
+      <sparkle:shortVersionString>2.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>thatsaid 2.0.4
+
+- Connect an Agent follows the selected mode (Cloud: mcp.thatsaid.app with your token)
+- Agent Access on the Mac: create, copy, list and revoke tokens
+- Larger sidebar logo
+</pre>]]></description>
+      <enclosure url="https://github.com/saxxonm/thatsaid-releases/releases/download/v2.0.4/Thatsaid-2.0.4.zip" sparkle:edSignature="lSSPK6zpmojv31AxDyjuffcx01QoIJMz2wOxEXLrY9gN3MTwUYIRmR2NWN6DlF78qhCWN71qCcwOthAzCYZECw==" length="27667302" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Thatsaid 2.0.3</title>
       <pubDate>Sun, 01 Nov 2026 15:26:23 GMT</pubDate>
       <sparkle:version>20003</sparkle:version>
