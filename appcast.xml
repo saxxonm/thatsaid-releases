@@ -6,6 +6,20 @@
     <description>Thatsaid updates</description>
     <language>en</language>
     <item>
+      <title>Thatsaid 2.0.6</title>
+      <pubDate>Mon, 02 Nov 2026 16:33:27 GMT</pubDate>
+      <sparkle:version>20006</sparkle:version>
+      <sparkle:shortVersionString>2.0.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>thatsaid 2.0.6
+
+- Agent Access: see AI apps connected with sign-in and revoke them.
+- Voice recognition now asks for consent. Your existing voices keep working.
+- Revoke any saved voice in Settings &gt; Voice.
+</pre>]]></description>
+      <enclosure url="https://github.com/saxxonm/thatsaid-releases/releases/download/v2.0.6/Thatsaid-2.0.6.zip" sparkle:edSignature="QRyjRY0s7iGeSGL8UsTXgV5bJCHxTfy3M8XePYgqN3u3eRpr76GxXt0H7ZGavrZ6Q5BCAQfRj0k9AmVIZn2jAg==" length="27714745" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Thatsaid 2.0.5</title>
       <pubDate>Sun, 01 Nov 2026 20:11:34 GMT</pubDate>
       <sparkle:version>20005</sparkle:version>
