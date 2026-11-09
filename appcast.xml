@@ -6,6 +6,18 @@
     <description>Thatsaid updates</description>
     <language>en</language>
     <item>
+      <title>Thatsaid 2.0.7</title>
+      <pubDate>Mon, 09 Nov 2026 19:56:45 GMT</pubDate>
+      <sparkle:version>20007</sparkle:version>
+      <sparkle:shortVersionString>2.0.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Parakeet is now the only transcription model. Bark was removed after its license changed and can no longer ship with paid cloud sync.
+
+If you were using Bark, thatsaid switches to Parakeet automatically with no prompt and without interrupting listening. Bark&#x27;s files are removed only after Parakeet is already on disk.
+</pre>]]></description>
+      <enclosure url="https://github.com/saxxonm/thatsaid-releases/releases/download/v2.0.7/Thatsaid-2.0.7.zip" sparkle:edSignature="yhCKA5sxPq31tMj3D/6uEWXAhhBubU6PE3x5HFBkD7PLZ+7zazoA30BNQatAYaXwyQrG0kVvJJdg0yntm9NVDw==" length="27980854" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Thatsaid 2.0.6</title>
       <pubDate>Mon, 02 Nov 2026 16:33:27 GMT</pubDate>
       <sparkle:version>20006</sparkle:version>
