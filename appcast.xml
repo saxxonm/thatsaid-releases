@@ -6,6 +6,16 @@
     <description>Thatsaid updates</description>
     <language>en</language>
     <item>
+      <title>Thatsaid 2.0.8</title>
+      <pubDate>Mon, 09 Nov 2026 21:35:32 GMT</pubDate>
+      <sparkle:version>20008</sparkle:version>
+      <sparkle:shortVersionString>2.0.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>thatsaid Cloud: after you sign in, subscribe via web billing to keep Cloud Sync on across your devices. Local recording stays free.
+</pre>]]></description>
+      <enclosure url="https://github.com/saxxonm/thatsaid-releases/releases/download/v2.0.8/Thatsaid-2.0.8.zip" sparkle:edSignature="lB0A/t2NdVmDq3Dg0frRQPBym4rbVUh1cMJGRsOB/bvqc0k6qjcCIx7aDtl2ITijWulwB8Tfh2ZucqtMeqiQAw==" length="28022419" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Thatsaid 2.0.7</title>
       <pubDate>Mon, 09 Nov 2026 19:56:45 GMT</pubDate>
       <sparkle:version>20007</sparkle:version>
