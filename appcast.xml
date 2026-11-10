@@ -6,6 +6,16 @@
     <description>Thatsaid updates</description>
     <language>en</language>
     <item>
+      <title>Thatsaid 2.0.9</title>
+      <pubDate>Tue, 10 Nov 2026 13:43:21 GMT</pubDate>
+      <sparkle:version>20009</sparkle:version>
+      <sparkle:shortVersionString>2.0.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Security update: sign-in and reset links now only work for requests started on this Mac, the local MCP server requires its access token, and updates are verified before install.
+</pre>]]></description>
+      <enclosure url="https://github.com/saxxonm/thatsaid-releases/releases/download/v2.0.9/Thatsaid-2.0.9.zip" sparkle:edSignature="jH3x9FbkUTYqGbCfX2Mp2JU+Pkix0k4nq/e6hUJdThnfKgdZm+UnLfHAcnlFf38e0j4t8u1a7536m1rCE1j0AA==" length="28048431" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Thatsaid 2.0.8</title>
       <pubDate>Mon, 09 Nov 2026 21:35:32 GMT</pubDate>
       <sparkle:version>20008</sparkle:version>
