@@ -6,6 +6,18 @@
     <description>Thatsaid updates</description>
     <language>en</language>
     <item>
+      <title>Thatsaid 2.0.11</title>
+      <pubDate>Mon, 23 Nov 2026 22:31:31 GMT</pubDate>
+      <sparkle:version>20011</sparkle:version>
+      <sparkle:shortVersionString>2.0.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Agent Dictation. Hold Right Option and Right Command, review what you said, and send it to Grok Bot or OpenBot. A screenshot of the window in front can go with it. The picture stays on this Mac and is removed after 7 days.
+
+The dictation shortcut can be a lone fn or a modifier chord. A meeting stays open while you hold either shortcut.
+</pre>]]></description>
+      <enclosure url="https://github.com/saxxonm/thatsaid-releases/releases/download/v2.0.11/Thatsaid-2.0.11.zip" sparkle:edSignature="E6Z9NHoKbVU6gmnkrkHlK9dLqz7Eq75ShlSZ7Xme6eVuJaoCA438BpJi7LLmtJHUe7P32Cb9ZGpNObHxxkW/Cg==" length="28232638" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Thatsaid 2.0.9</title>
       <pubDate>Tue, 10 Nov 2026 13:43:21 GMT</pubDate>
       <sparkle:version>20009</sparkle:version>
