@@ -6,6 +6,24 @@
     <description>Thatsaid updates</description>
     <language>en</language>
     <item>
+      <title>Thatsaid 2.0.14</title>
+      <pubDate>Tue, 24 Nov 2026 23:44:54 GMT</pubDate>
+      <sparkle:version>20014</sparkle:version>
+      <sparkle:shortVersionString>2.0.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Send from Agent Dictation happens on its own. thatsaid opens your Grok Bot chat, checks it is the right bot, and sends. If it cannot confirm the chat, your message stays on the clipboard and nothing is sent.
+
+A screenshot starts the message with a note that the picture is there for context.
+
+New installs can choose a bot and a hold key during setup. After this update, that choice appears once if you have not saved a bot yet.
+
+Dictation uses the microphone. Sound from a video is not mixed into what you dictate.
+
+The review window stays on screen, and extra diagnostic logging stays off.
+</pre>]]></description>
+      <enclosure url="https://github.com/saxxonm/thatsaid-releases/releases/download/v2.0.14/Thatsaid-2.0.14.zip" sparkle:edSignature="Glz9Ej+UKR0PmKl+xoXawoAVrBqDBQGk9VwcHw+3GyGZ2Wz3a9eINwFdCK6y/05e9I9GwGVgIE44WiagPYdIBg==" length="28303844" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Thatsaid 2.0.13</title>
       <pubDate>Tue, 24 Nov 2026 22:32:34 GMT</pubDate>
       <sparkle:version>20013</sparkle:version>
