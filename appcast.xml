@@ -6,6 +6,18 @@
     <description>Thatsaid updates</description>
     <language>en</language>
     <item>
+      <title>Thatsaid 2.0.12</title>
+      <pubDate>Tue, 24 Nov 2026 18:46:50 GMT</pubDate>
+      <sparkle:version>20012</sparkle:version>
+      <sparkle:shortVersionString>2.0.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Cloud sign-in and the purchase link are included in this build again.
+
+Agent Dictation asks for a Chat link from the bot you already have open. A template link, which would make a copy of the bot, is not accepted.
+</pre>]]></description>
+      <enclosure url="https://github.com/saxxonm/thatsaid-releases/releases/download/v2.0.12/Thatsaid-2.0.12.zip" sparkle:edSignature="lT1N+KVmCZHsGejr/FjP5QsUzAJopanVZE0dUx+xyn/LDRAA5YDwanycRUL9/6dhoTFYcBdoUDlApf1OkouuDA==" length="28234561" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Thatsaid 2.0.11</title>
       <pubDate>Mon, 23 Nov 2026 22:31:31 GMT</pubDate>
       <sparkle:version>20011</sparkle:version>
