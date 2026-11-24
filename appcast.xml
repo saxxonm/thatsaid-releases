@@ -6,6 +6,20 @@
     <description>Thatsaid updates</description>
     <language>en</language>
     <item>
+      <title>Thatsaid 2.0.13</title>
+      <pubDate>Tue, 24 Nov 2026 22:32:34 GMT</pubDate>
+      <sparkle:version>20013</sparkle:version>
+      <sparkle:shortVersionString>2.0.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>The Agent Dictation review window stays on screen. Long text scrolls, and Send and Cancel stay at the bottom.
+
+The Chat link steps are on two separate lines.
+
+Verbose soak logging is off. Error and crash logging stays on.
+</pre>]]></description>
+      <enclosure url="https://github.com/saxxonm/thatsaid-releases/releases/download/v2.0.13/Thatsaid-2.0.13.zip" sparkle:edSignature="lSff4MjYHShFHhFgalPzFq9uhtUALrYEEtew17piVF9paJznNqEvvkNMRphsL0pZXQYUlIcm2jfUiMLwA4iRDA==" length="28253301" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Thatsaid 2.0.12</title>
       <pubDate>Tue, 24 Nov 2026 18:46:50 GMT</pubDate>
       <sparkle:version>20012</sparkle:version>
