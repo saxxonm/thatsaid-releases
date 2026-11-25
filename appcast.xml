@@ -6,6 +6,17 @@
     <description>Thatsaid updates</description>
     <language>en</language>
     <item>
+      <title>Thatsaid 2.0.17</title>
+      <pubDate>Wed, 25 Nov 2026 15:22:20 GMT</pubDate>
+      <sparkle:version>20017</sparkle:version>
+      <sparkle:shortVersionString>2.0.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Paste goes into the Grok Bot chat composer, not the bot-name field.
+Agent Dictation permissions use the names macOS shows: Device control and data access, and Screen &amp; System Audio Recording.
+</pre>]]></description>
+      <enclosure url="https://github.com/saxxonm/thatsaid-releases/releases/download/v2.0.17/Thatsaid-2.0.17.zip" sparkle:edSignature="HfRd03y2OGMuFOU8B8mgwkFNbGpqO/2IbLBv95tIpThwX9Yq+z7OcrH7C8y5y9XsfMyrDoSJPmUFYGkJbACjBw==" length="28415078" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Thatsaid 2.0.16</title>
       <pubDate>Wed, 25 Nov 2026 02:13:20 GMT</pubDate>
       <sparkle:version>20016</sparkle:version>
