@@ -6,6 +6,18 @@
     <description>Thatsaid updates</description>
     <language>en</language>
     <item>
+      <title>Thatsaid 2.0.15</title>
+      <pubDate>Wed, 25 Nov 2026 00:18:40 GMT</pubDate>
+      <sparkle:version>20015</sparkle:version>
+      <sparkle:shortVersionString>2.0.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Grok Bot send now waits for the window&#x27;s controls to appear, then says which step failed. The message stays copied.
+
+Agent Dictation settings show Accessibility and Screen Recording, with Allow and a live Allowed state. Test handoff checks the chat without pasting or sending. A hold asks for Accessibility before you speak if it isn&#x27;t allowed.
+</pre>]]></description>
+      <enclosure url="https://github.com/saxxonm/thatsaid-releases/releases/download/v2.0.15/Thatsaid-2.0.15.zip" sparkle:edSignature="r3yHZsz7PUUI098Ziijdpqdv+PoIg0bx1/3Y4Btg2vg5G0PAb5C5Y3QkpnE8vJs9qCEMaZGQjolMweanuGXbDA==" length="28331071" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Thatsaid 2.0.14</title>
       <pubDate>Tue, 24 Nov 2026 23:44:54 GMT</pubDate>
       <sparkle:version>20014</sparkle:version>
