@@ -6,6 +6,16 @@
     <description>Thatsaid updates</description>
     <language>en</language>
     <item>
+      <title>Thatsaid 2.0.21</title>
+      <pubDate>Wed, 25 Nov 2026 22:48:08 GMT</pubDate>
+      <sparkle:version>20021</sparkle:version>
+      <sparkle:shortVersionString>2.0.21</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>thatsaid Cloud now shows the subscription screen when needed and retries automatically if the subscription check is briefly unavailable.
+</pre>]]></description>
+      <enclosure url="https://github.com/saxxonm/thatsaid-releases/releases/download/v2.0.21/Thatsaid-2.0.21.zip" sparkle:edSignature="LaUZrpiQFL3COKdgtvMWxbVKzsJN6ztSOLguvnoIeZWyYN9XrcraOSDXuZ/X1avA4k2g+2i966cu/vIwxLOCDw==" length="28490711" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Thatsaid 2.0.20</title>
       <pubDate>Wed, 25 Nov 2026 20:16:35 GMT</pubDate>
       <sparkle:version>20020</sparkle:version>
