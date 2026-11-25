@@ -6,6 +6,16 @@
     <description>Thatsaid updates</description>
     <language>en</language>
     <item>
+      <title>Thatsaid 2.0.16</title>
+      <pubDate>Wed, 25 Nov 2026 02:13:20 GMT</pubDate>
+      <sparkle:version>20016</sparkle:version>
+      <sparkle:shortVersionString>2.0.16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Meetings can be heard from a call playing on this Mac, including through headphones, and from the microphone. Dictation stays on the microphone. When system audio is off, meetings keep using the microphone.
+</pre>]]></description>
+      <enclosure url="https://github.com/saxxonm/thatsaid-releases/releases/download/v2.0.16/Thatsaid-2.0.16.zip" sparkle:edSignature="N7JnWjJ0ourrYI1uG2aRiouUiefmvrVzuQKqk+JarXaWSl/6ehwxvTrmlUMQ0eYoQPp25nhh2ROma0sc/0kjAA==" length="28377271" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Thatsaid 2.0.15</title>
       <pubDate>Wed, 25 Nov 2026 00:18:40 GMT</pubDate>
       <sparkle:version>20015</sparkle:version>
