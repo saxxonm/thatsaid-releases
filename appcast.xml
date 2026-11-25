@@ -6,6 +6,16 @@
     <description>Thatsaid updates</description>
     <language>en</language>
     <item>
+      <title>Thatsaid 2.0.18</title>
+      <pubDate>Wed, 25 Nov 2026 16:50:29 GMT</pubDate>
+      <sparkle:version>20018</sparkle:version>
+      <sparkle:shortVersionString>2.0.18</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Dictation keeps the whole hold. Echo cancellation no longer restarts the microphone every couple of seconds, so a long hold should catch the full sentence and the dictation icon should stay steady. Meeting capture uses the same protection when echo cancellation is on.
+</pre>]]></description>
+      <enclosure url="https://github.com/saxxonm/thatsaid-releases/releases/download/v2.0.18/Thatsaid-2.0.18.zip" sparkle:edSignature="/yFxhsJNG8EEpIc5sfRc5y06yu7MrQyt6w4SM600OA2oMRYYDRbSmBDmvUTizHWEnNvloqaQydzkChi+fccMCQ==" length="28421004" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Thatsaid 2.0.17</title>
       <pubDate>Wed, 25 Nov 2026 15:22:20 GMT</pubDate>
       <sparkle:version>20017</sparkle:version>
