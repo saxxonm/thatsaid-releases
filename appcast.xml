@@ -6,6 +6,16 @@
     <description>Thatsaid updates</description>
     <language>en</language>
     <item>
+      <title>Thatsaid 2.0.20</title>
+      <pubDate>Wed, 25 Nov 2026 20:16:35 GMT</pubDate>
+      <sparkle:version>20020</sparkle:version>
+      <sparkle:shortVersionString>2.0.20</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>Agent Dictation leaves the screenshot off when the request stands on its own, and on when it points at the screen.
+</pre>]]></description>
+      <enclosure url="https://github.com/saxxonm/thatsaid-releases/releases/download/v2.0.20/Thatsaid-2.0.20.zip" sparkle:edSignature="wmGO0Az3n62crpKzRoyiS8muaZm2Ne/wa3lUcSp8VsmkRUrygPDG5VAYWoN8kYUz5b0EhcxP3Lg/WR9NsNReDA==" length="28483514" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Thatsaid 2.0.19</title>
       <pubDate>Wed, 25 Nov 2026 18:44:19 GMT</pubDate>
       <sparkle:version>20019</sparkle:version>
